@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Server Aufgabe\\view\\edit view.js"
+            "program": "${workspaceFolder}\\Server_Aufgabe\\view\\edit-view.js"
         }
     ]
 }
